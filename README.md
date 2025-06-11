@@ -1,6 +1,7 @@
 # Nubex
 FinTech Mobile App prototype for Nubex
 # 💰 Nubex Banking App (Prototype)
+![Nubex Logo](./assets/Nubex-icon.png)
 
 **Nubex** is a mobile FinTech banking app prototype designed to simplify digital financial transactions for users across Sierra Leone and beyond. This repository contains the full development process — from requirements engineering to UI prototyping and system modeling.
 
