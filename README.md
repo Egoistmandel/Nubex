@@ -1,2 +1,2 @@
 # Nubex
-FinTech Mobile App prototype for  Group I
+FinTech Mobile App prototype for Nubex
